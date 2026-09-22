@@ -1,19 +1,25 @@
-Online Examination System:
+Online Examination System
 
-A full-stack web application for creating, managing, and taking online examinations.
+Team Members:
 
-Project Status :
+Sama Magdy (Leader)
 
-In Development
+Radwa Eid
 
-Overview:
+Eman Ayman 
 
-This project is a university team project that aims to build an online examination platform with separate functionalities for instructors and students.
+Sara Yousef
 
-More details will be added as the project develops.
-Team:
+Esraa Ezz 
 
-University Team Project
+Yara Abdelsabour
+
+Amera Hesham
+
+Donia Ahmed 
+
+Ola Fathy
+
 
 contact info:
 
